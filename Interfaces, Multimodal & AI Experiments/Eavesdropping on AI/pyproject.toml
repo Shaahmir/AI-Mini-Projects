@@ -1,0 +1,12 @@
+[project]
+name = "eavesdropping-on-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "ipython>=9.15.0",
+    "ollama>=0.6.2",
+    "openai>=2.46.0",
+]
