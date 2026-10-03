@@ -1,0 +1,185 @@
+digraph Tokens {
+	START
+	t1 [label="Blue
+100.0%"]
+	START -> t1
+	t2 [label=" is
+98.8%"]
+	t1 -> t2
+	t3 [label=" the
+80.1%"]
+	t2 -> t3
+	a3_0 [label=" like
+17.9%"]
+	t3 -> a3_0
+	a3_1 [label=" a
+1.5%"]
+	t3 -> a3_1
+	t4 [label=" cool
+37.7%"]
+	t3 -> t4
+	a4_0 [label=" cool
+37.7%"]
+	t4 -> a4_0
+	a4_1 [label=" color
+13.9%"]
+	t4 -> a4_1
+	t5 [label=",
+100.0%"]
+	t4 -> t5
+	t6 [label=" calm
+56.0%"]
+	t5 -> t6
+	a6_0 [label=" calming
+26.4%"]
+	t6 -> a6_0
+	a6_1 [label=" quiet
+16.0%"]
+	t6 -> a6_1
+	t7 [label=" feeling
+99.2%"]
+	t6 -> t7
+	t8 [label=" of
+87.1%"]
+	t7 -> t8
+	a8_0 [label=" like
+7.2%"]
+	t8 -> a8_0
+	a8_1 [label=" you
+5.6%"]
+	t8 -> a8_1
+	t9 [label=" a
+84.0%"]
+	t8 -> t9
+	a9_0 [label=" standing
+5.4%"]
+	t9 -> a9_0
+	a9_1 [label=" looking
+4.2%"]
+	t9 -> a9_1
+	t10 [label=" deep
+43.6%"]
+	t9 -> t10
+	a10_0 [label=" deep
+26.4%"]
+	t10 -> a10_0
+	a10_1 [label=" wide
+16.0%"]
+	t10 -> a10_1
+	t11 [label=" shadow
+26.7%"]
+	t10 -> t11
+	a11_0 [label=" open
+26.7%"]
+	t11 -> a11_0
+	a11_1 [label=" ocean
+12.6%"]
+	t11 -> a11_1
+	t12 [label="ed
+37.5%"]
+	t11 -> t12
+	a12_0 [label=" or
+22.7%"]
+	t12 -> a12_0
+	a12_1 [label=" on
+10.7%"]
+	t12 -> a12_1
+	t13 [label=" sky
+45.1%"]
+	t12 -> t13
+	a13_0 [label=" sky
+35.2%"]
+	t13 -> a13_0
+	a13_1 [label=" lake
+12.9%"]
+	t13 -> a13_1
+	t14 [label=" or
+95.7%"]
+	t13 -> t14
+	a14_0 [label=",
+2.9%"]
+	t14 -> a14_0
+	t15 [label=" quiet
+42.2%"]
+	t14 -> t15
+	a15_0 [label=" a
+42.2%"]
+	t15 -> a15_0
+	a15_1 [label=" the
+12.1%"]
+	t15 -> a15_1
+	t16 [label=" ocean
+70.0%"]
+	t15 -> t16
+	a16_0 [label=" water
+25.8%"]
+	t16 -> a16_0
+	a16_1 [label=" open
+3.5%"]
+	t16 -> a16_1
+	t17 [label=",
+49.4%"]
+	t16 -> t17
+	a17_0 [label=",
+38.5%"]
+	t17 -> a17_0
+	a17_1 [label="—
+4.1%"]
+	t17 -> a17_1
+	t18 [label=" like
+98.2%"]
+	t17 -> t18
+	t19 [label=" a
+73.6%"]
+	t18 -> t19
+	a19_0 [label=" the
+21.1%"]
+	t19 -> a19_0
+	a19_1 [label=" something
+1.7%"]
+	t19 -> a19_1
+	t20 [label=" gentle
+59.8%"]
+	t19 -> t20
+	a20_0 [label=" soft
+28.3%"]
+	t20 -> a20_0
+	a20_1 [label=" soothing
+3.0%"]
+	t20 -> a20_1
+	t21 [label=" breeze
+39.8%"]
+	t20 -> t21
+	a21_0 [label=" hush
+24.1%"]
+	t21 -> a21_0
+	a21_1 [label=" breath
+24.1%"]
+	t21 -> a21_1
+	t22 [label=" in
+27.7%"]
+	t21 -> t22
+	a22_0 [label=" that
+21.6%"]
+	t22 -> a22_0
+	a22_1 [label=" on
+21.6%"]
+	t22 -> a22_1
+	t23 [label=" color
+74.5%"]
+	t22 -> t23
+	a23_0 [label=" visual
+12.9%"]
+	t23 -> a23_0
+	a23_1 [label=" your
+10.1%"]
+	t23 -> a23_1
+	t24 [label=" form
+99.7%"]
+	t23 -> t24
+	t25 [label=".
+100.0%"]
+	t24 -> t25
+	END
+	t25 -> END
+}

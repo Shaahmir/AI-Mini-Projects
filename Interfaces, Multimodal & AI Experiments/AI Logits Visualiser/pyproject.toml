@@ -1,0 +1,12 @@
+[project]
+name = "openai-logits-visualiser"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "matplotlib>=3.11.1",
+    "networkx>=3.6.1",
+    "openai>=2.52.0",
+]
